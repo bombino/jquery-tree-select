@@ -18,7 +18,7 @@ This plugin takes code that looks like this:
    
 ... and transforms it into a select box that just shows (none), Category 1, and Category 2.  Then when you click on Category 1, a new select box pops up showing Subcategory 1 and Subcategory 2.
 
-There is no configuration.  Just give your <select> a class="multitier" and you are good to go.
+There is no configuration.  Just give your select tag a class="multitier" and you are good to go.
   
 Note:  after releasing this, I then found this project, which seems to be a much more complete version of what I was trying to do:
 
